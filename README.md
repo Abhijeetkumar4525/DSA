@@ -18,19 +18,23 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Abhijeetkumar4525/DSA/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0513-find-bottom-left-tree-value](https://github.com/Abhijeetkumar4525/DSA/tree/master/0513-find-bottom-left-tree-value) |
+| [1035-cousins-in-binary-tree](https://github.com/Abhijeetkumar4525/DSA/tree/master/1035-cousins-in-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Abhijeetkumar4525/DSA/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0513-find-bottom-left-tree-value](https://github.com/Abhijeetkumar4525/DSA/tree/master/0513-find-bottom-left-tree-value) |
+| [1035-cousins-in-binary-tree](https://github.com/Abhijeetkumar4525/DSA/tree/master/1035-cousins-in-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Abhijeetkumar4525/DSA/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0513-find-bottom-left-tree-value](https://github.com/Abhijeetkumar4525/DSA/tree/master/0513-find-bottom-left-tree-value) |
+| [1035-cousins-in-binary-tree](https://github.com/Abhijeetkumar4525/DSA/tree/master/1035-cousins-in-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Abhijeetkumar4525/DSA/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0513-find-bottom-left-tree-value](https://github.com/Abhijeetkumar4525/DSA/tree/master/0513-find-bottom-left-tree-value) |
+| [1035-cousins-in-binary-tree](https://github.com/Abhijeetkumar4525/DSA/tree/master/1035-cousins-in-binary-tree) |
 <!---LeetCode Topics End-->
