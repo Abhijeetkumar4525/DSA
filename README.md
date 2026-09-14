@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 ## Array
 |  |
 | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/Abhijeetkumar4525/DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0503-next-greater-element-ii](https://github.com/Abhijeetkumar4525/DSA/tree/master/0503-next-greater-element-ii) |
 ## Stack
 |  |
@@ -37,4 +38,12 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0104-maximum-depth-of-binary-tree](https://github.com/Abhijeetkumar4525/DSA/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0513-find-bottom-left-tree-value](https://github.com/Abhijeetkumar4525/DSA/tree/master/0513-find-bottom-left-tree-value) |
 | [1035-cousins-in-binary-tree](https://github.com/Abhijeetkumar4525/DSA/tree/master/1035-cousins-in-binary-tree) |
+## Hash Table
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/Abhijeetkumar4525/DSA/tree/master/0128-longest-consecutive-sequence) |
+## Union-Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/Abhijeetkumar4525/DSA/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
