@@ -1,7 +1,12 @@
 class Solution {
     public int longestConsecutive(int[] nums) {
         int n = nums.length ;
+
+         if (n == 1)  return 1  ;
+         if (n == 0)  return 0 ;
+         
         Arrays.sort(nums) ;
+
 
         int cnt = 1 ;
         int maxCnt = Integer.MIN_VALUE ;
@@ -19,8 +24,6 @@ class Solution {
                maxCnt = Math.max(cnt , maxCnt) ;
         }
 
-         if (n == 1)  return 1  ;
-         if (n == 0)  return 0 ;
          if(maxCnt == Integer.MIN_VALUE) return 1 ;
         return maxCnt ;
     }
