@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0053-maximum-subarray](https://github.com/Abhijeetkumar4525/DSA/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Abhijeetkumar4525/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/Abhijeetkumar4525/DSA/tree/master/0128-longest-consecutive-sequence) |
+| [0268-missing-number](https://github.com/Abhijeetkumar4525/DSA/tree/master/0268-missing-number) |
 | [0503-next-greater-element-ii](https://github.com/Abhijeetkumar4525/DSA/tree/master/0503-next-greater-element-ii) |
 ## Stack
 |  |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Abhijeetkumar4525/DSA/tree/master/0128-longest-consecutive-sequence) |
+| [0268-missing-number](https://github.com/Abhijeetkumar4525/DSA/tree/master/0268-missing-number) |
 ## Union-Find
 |  |
 | ------- |
@@ -51,6 +53,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 ## Math
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/Abhijeetkumar4525/DSA/tree/master/0268-missing-number) |
 | [0507-perfect-number](https://github.com/Abhijeetkumar4525/DSA/tree/master/0507-perfect-number) |
 ## Divide and Conquer
 |  |
@@ -61,4 +64,16 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | ------- |
 | [0053-maximum-subarray](https://github.com/Abhijeetkumar4525/DSA/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Abhijeetkumar4525/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
+## Binary Search
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/Abhijeetkumar4525/DSA/tree/master/0268-missing-number) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/Abhijeetkumar4525/DSA/tree/master/0268-missing-number) |
+## Sorting
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/Abhijeetkumar4525/DSA/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
