@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Abhijeetkumar4525/DSA/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/Abhijeetkumar4525/DSA/tree/master/0011-container-with-most-water) |
 | [0053-maximum-subarray](https://github.com/Abhijeetkumar4525/DSA/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Abhijeetkumar4525/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/Abhijeetkumar4525/DSA/tree/master/0128-longest-consecutive-sequence) |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Abhijeetkumar4525/DSA/tree/master/0011-container-with-most-water) |
 | [0287-find-the-duplicate-number](https://github.com/Abhijeetkumar4525/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Abhijeetkumar4525/DSA/tree/master/0349-intersection-of-two-arrays) |
 ## Pigeonhole Principle
@@ -106,8 +108,12 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Abhijeetkumar4525/DSA/tree/master/0169-majority-element) |
-## BoyerâMoore Majority Vote Algorithm
+## BoyerÃ¢ÂÂMoore Majority Vote Algorithm
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Abhijeetkumar4525/DSA/tree/master/0169-majority-element) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/Abhijeetkumar4525/DSA/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
