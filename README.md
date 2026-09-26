@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0128-longest-consecutive-sequence](https://github.com/Abhijeetkumar4525/DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0268-missing-number](https://github.com/Abhijeetkumar4525/DSA/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Abhijeetkumar4525/DSA/tree/master/0287-find-the-duplicate-number) |
+| [0349-intersection-of-two-arrays](https://github.com/Abhijeetkumar4525/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0503-next-greater-element-ii](https://github.com/Abhijeetkumar4525/DSA/tree/master/0503-next-greater-element-ii) |
 ## Stack
 |  |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0001-two-sum](https://github.com/Abhijeetkumar4525/DSA/tree/master/0001-two-sum) |
 | [0128-longest-consecutive-sequence](https://github.com/Abhijeetkumar4525/DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0268-missing-number](https://github.com/Abhijeetkumar4525/DSA/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/Abhijeetkumar4525/DSA/tree/master/0349-intersection-of-two-arrays) |
 ## Union-Find
 |  |
 | ------- |
@@ -72,6 +74,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | ------- |
 | [0268-missing-number](https://github.com/Abhijeetkumar4525/DSA/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Abhijeetkumar4525/DSA/tree/master/0287-find-the-duplicate-number) |
+| [0349-intersection-of-two-arrays](https://github.com/Abhijeetkumar4525/DSA/tree/master/0349-intersection-of-two-arrays) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -81,10 +84,12 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/Abhijeetkumar4525/DSA/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/Abhijeetkumar4525/DSA/tree/master/0349-intersection-of-two-arrays) |
 ## Two Pointers
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/Abhijeetkumar4525/DSA/tree/master/0287-find-the-duplicate-number) |
+| [0349-intersection-of-two-arrays](https://github.com/Abhijeetkumar4525/DSA/tree/master/0349-intersection-of-two-arrays) |
 ## Pigeonhole Principle
 |  |
 | ------- |
