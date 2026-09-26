@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 ## Array
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/Abhijeetkumar4525/DSA/tree/master/0053-maximum-subarray) |
 | [0128-longest-consecutive-sequence](https://github.com/Abhijeetkumar4525/DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0503-next-greater-element-ii](https://github.com/Abhijeetkumar4525/DSA/tree/master/0503-next-greater-element-ii) |
 ## Stack
@@ -50,4 +51,12 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 |  |
 | ------- |
 | [0507-perfect-number](https://github.com/Abhijeetkumar4525/DSA/tree/master/0507-perfect-number) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/Abhijeetkumar4525/DSA/tree/master/0053-maximum-subarray) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/Abhijeetkumar4525/DSA/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
