@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Abhijeetkumar4525/DSA/tree/master/0053-maximum-subarray) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Abhijeetkumar4525/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/Abhijeetkumar4525/DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0503-next-greater-element-ii](https://github.com/Abhijeetkumar4525/DSA/tree/master/0503-next-greater-element-ii) |
 ## Stack
@@ -59,4 +60,5 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Abhijeetkumar4525/DSA/tree/master/0053-maximum-subarray) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Abhijeetkumar4525/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 <!---LeetCode Topics End-->
