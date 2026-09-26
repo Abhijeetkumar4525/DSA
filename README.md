@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Abhijeetkumar4525/DSA/tree/master/0001-two-sum) |
 | [0053-maximum-subarray](https://github.com/Abhijeetkumar4525/DSA/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Abhijeetkumar4525/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/Abhijeetkumar4525/DSA/tree/master/0128-longest-consecutive-sequence) |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Abhijeetkumar4525/DSA/tree/master/0001-two-sum) |
 | [0128-longest-consecutive-sequence](https://github.com/Abhijeetkumar4525/DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0268-missing-number](https://github.com/Abhijeetkumar4525/DSA/tree/master/0268-missing-number) |
 ## Union-Find
