@@ -46,4 +46,8 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Abhijeetkumar4525/DSA/tree/master/0128-longest-consecutive-sequence) |
+## Math
+|  |
+| ------- |
+| [0507-perfect-number](https://github.com/Abhijeetkumar4525/DSA/tree/master/0507-perfect-number) |
 <!---LeetCode Topics End-->
